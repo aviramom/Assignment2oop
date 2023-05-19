@@ -1,0 +1,21 @@
+﻿  DeliveryPerson.cpp
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\DeliveryPerson.h(3,1): error C2504: 'Person': base class undefined
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\DeliveryPerson.h(5,15): error C2061: syntax error: identifier 'Person'
+  Florist.cpp
+  FlowerArranger.cpp
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\FlowerArranger.cpp(5,4): error C2027: use of undefined type 'FlowersBouqet'
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\Person.h(4,7): message : see declaration of 'FlowersBouqet'
+  FlowersBouqet.cpp
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\FlowersBouqet.cpp(10,20): warning C4553: '==': result of expression not used; did you intend '='?
+  Gardener.cpp
+  Grower.cpp
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\Grower.cpp(13,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  main.cpp
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\main.cpp(5,25): error C2061: syntax error: identifier '{ctor}'
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\main.cpp(5,11): error C2512: 'Person': no appropriate default constructor available
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\Person.h(7,7): message : see declaration of 'Person'
+  Person.cpp
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\Person.cpp(24,53): error C2027: use of undefined type 'FlowersBouqet'
+C:\Users\Omera\source\repos\assigment2OOP\assigment2OOP\Person.h(4,7): message : see declaration of 'FlowersBouqet'
+  Wholesaler.cpp
+  Generating Code...

@@ -7,5 +7,5 @@ FlowersBouqet::FlowersBouqet(std::vector<std::string> s)
 }
 void FlowersBouqet::arrange()
 {
-	this->is_arranged == true;
+	this->is_arranged = true;
 }

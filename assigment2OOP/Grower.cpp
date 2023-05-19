@@ -10,6 +10,7 @@ Grower::Grower(std::string name, Gardener* gardener) :Person(name,"Grower")
 
 	FlowersBouqet* prepareOrder(std::vector<std::string> s)
 	{
-		return this->gardener.prepareOrder(s);
+		Gardener g = this.gardener;
+		return gardener.prepareOrder(s);
 	};
 
